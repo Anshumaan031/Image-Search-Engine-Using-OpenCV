@@ -10,4 +10,5 @@ An image descriptor is an algorithm and methodology that governs how an input im
 To compare two images, we input the respective feature vectors into a distance metric/similarity 
 function. The output is a value used to represent and quantify how “similar” the two images are 
 to each other.
-![image](https://user-images.githubusercontent.com/67821036/139065081-0adc5da0-c842-47dc-b109-0d5edaf0a202.png)
+
+![image](https://user-images.githubusercontent.com/67821036/139065185-117e78c8-5efd-4fdd-b099-ebb00aa6052e.png)
