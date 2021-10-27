@@ -1,5 +1,5 @@
 # Image-Search-Engine-Using-OpenCV
-<h1> Content Baes Image Retrieval </h1>
+<h1> Content Based Image Retrieval </h1>
 The process of retrieval of relevant images from an
 image database(or distributed databases) on the basis
 of primitive (e.g. color, texture, shape etc.) or semantic
